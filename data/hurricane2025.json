@@ -1,0 +1,36 @@
+{
+  "title": "2025 Atlantic Hurricanes",
+  "items": [
+    {
+      "heading": "Melissa",
+      "type": "Hurricane",
+      "fullLabel": "Hurricane Melissa 2025",
+      "gif": "images/gifs/Melissa.gif"
+    },
+    {
+      "heading": "Jerry",
+      "type": "Tropical Storm",
+      "fullLabel": "Tropical Storm Jerry 2025",
+      "gif": "images/gifs/Jerry.gif"
+    },
+    {
+      "heading": "Imelda",
+      "type": "Hurricane",
+      "fullLabel": "Hurricane Imelda 2025",
+      "gif": "images/gifs/Imelda.gif"
+    },
+    {
+      "heading": "Gabrielle",
+      "type": "Hurricane",
+      "fullLabel": "Hurricane Gabrielle 2025",
+      "gif": "images/gifs/Gabrielle.gif"
+    },
+    {
+      "heading": "Danas",
+      "type": "Hurricane",
+      "fullLabel": "Hurricane Danas 2025",
+      "gif": "images/gifs/Danas.gif"
+    }
+    
+  ]
+}
