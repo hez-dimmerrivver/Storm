@@ -187,7 +187,7 @@ function drawVinyl() {
   fill(10);
   ellipse(0, 0, size * 0.03, size * 0.03);
 
-  if (data?.items?.[selectedIndex]) {
+  if (data && data.items && data.items[selectedIndex]) {
     fill(255);
     textSize(size * 0.03);
     textAlign(CENTER, CENTER);
@@ -196,7 +196,7 @@ function drawVinyl() {
     text("2025", 0, size * 0.06);
   }
 
-  ctx.restore();
+  ctx.restore(); // reset
 
   // line for detecting pixel
   stroke(255, 0);
