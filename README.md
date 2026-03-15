@@ -7,6 +7,9 @@ An interactive digital vinyl that creates wind sounds from storm videos.
 ## Concept
 Spinning storms remind me of the mechanism of vinyl records, so the project analyzed the colors of pixels in radar videos of the 2025 storms.
 
+## Play Here
+https://storm-kawx.onrender.com/
+
 ## Technology Used
 This project was mainly developed using P5.js, with the data structured in JSON..
 
