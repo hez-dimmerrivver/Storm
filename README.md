@@ -1,5 +1,5 @@
 # Storm Vinyl
-Jan 2026, Jiang He Zhang(Hez)
+1st Mar 2026, Jiang He Zhang(Hez)
 ## Description
 An interactive digital vinyl that creates wind sounds from storm videos.
 <img width="1000" height="564" alt="Storm Vinyl" src="https://github.com/user-attachments/assets/7f71915c-b7d2-4a3e-9cd0-921efe340951" />
